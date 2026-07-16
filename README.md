@@ -12,4 +12,4 @@ Our Analysis is Distributed in three major parts
 Here we've overview of design of study and workflow
 
 ![Graphical Abstract](GraphicalAbstract.jpeg)
-![Workflow](Workflow.tiff)
+![Workflow](Workflow.jpg)
