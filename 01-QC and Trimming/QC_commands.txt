@@ -1,0 +1,9 @@
+#Run below commands in cli where fastqc and mulitqc is installed
+
+#Direct the path to the folder where all .fastq.gz files are present
+fastqc ./raw_reads/*.fastq.gz -o ./raw_fastqc_results/ -t 4
+
+#Run multiqc on the results of above folder
+multiqc raw_fastqc_results/ -o multiqc_report/
+
+
