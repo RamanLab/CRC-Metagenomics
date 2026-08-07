@@ -15,4 +15,3 @@ This workflow provides an integrated framework for simultaneous characterization
 Here we've graphical overview of design of study and workflow
 
 ![Graphical Abstract](GraphicalAbstract.jpeg)
-![Workflow](Workflow.jpg)
